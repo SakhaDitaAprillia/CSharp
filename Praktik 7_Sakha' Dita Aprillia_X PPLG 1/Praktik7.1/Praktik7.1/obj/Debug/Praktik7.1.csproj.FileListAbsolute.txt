@@ -1,0 +1,7 @@
+D:\Sakha' Dita Aprillia_X PPLG 1\Praktik7.1\Praktik7.1\bin\Debug\Praktik7.1.exe.config
+D:\Sakha' Dita Aprillia_X PPLG 1\Praktik7.1\Praktik7.1\bin\Debug\Praktik7.1.exe
+D:\Sakha' Dita Aprillia_X PPLG 1\Praktik7.1\Praktik7.1\bin\Debug\Praktik7.1.pdb
+D:\Sakha' Dita Aprillia_X PPLG 1\Praktik7.1\Praktik7.1\obj\Debug\Praktik7.1.csproj.AssemblyReference.cache
+D:\Sakha' Dita Aprillia_X PPLG 1\Praktik7.1\Praktik7.1\obj\Debug\Praktik7.1.csproj.CoreCompileInputs.cache
+D:\Sakha' Dita Aprillia_X PPLG 1\Praktik7.1\Praktik7.1\obj\Debug\Praktik7.1.exe
+D:\Sakha' Dita Aprillia_X PPLG 1\Praktik7.1\Praktik7.1\obj\Debug\Praktik7.1.pdb
