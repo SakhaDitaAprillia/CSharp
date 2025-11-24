@@ -1,0 +1,8 @@
+D:\Sakha' Dita Aprillia_X PPLG 1\Projek Akhir_Sakha' Dita Aprillia\Projek Akhir_Sakha' Dita Aprillia\bin\Debug\Projek Akhir_Sakha' Dita Aprillia.exe.config
+D:\Sakha' Dita Aprillia_X PPLG 1\Projek Akhir_Sakha' Dita Aprillia\Projek Akhir_Sakha' Dita Aprillia\bin\Debug\Projek Akhir_Sakha' Dita Aprillia.exe
+D:\Sakha' Dita Aprillia_X PPLG 1\Projek Akhir_Sakha' Dita Aprillia\Projek Akhir_Sakha' Dita Aprillia\bin\Debug\Projek Akhir_Sakha' Dita Aprillia.pdb
+D:\Sakha' Dita Aprillia_X PPLG 1\Projek Akhir_Sakha' Dita Aprillia\Projek Akhir_Sakha' Dita Aprillia\obj\Debug\Projek Akhir_Sakha' Dita Aprillia.csproj.AssemblyReference.cache
+D:\Sakha' Dita Aprillia_X PPLG 1\Projek Akhir_Sakha' Dita Aprillia\Projek Akhir_Sakha' Dita Aprillia\obj\Debug\Projek Akhir_Sakha' Dita Aprillia.csproj.CoreCompileInputs.cache
+D:\Sakha' Dita Aprillia_X PPLG 1\Projek Akhir_Sakha' Dita Aprillia\Projek Akhir_Sakha' Dita Aprillia\obj\Debug\Projek Akhir_Sakha' Dita Aprillia.exe
+D:\Sakha' Dita Aprillia_X PPLG 1\Projek Akhir_Sakha' Dita Aprillia\Projek Akhir_Sakha' Dita Aprillia\obj\Debug\Projek Akhir_Sakha' Dita Aprillia.pdb
+D:\Sakha' Dita Aprillia_X PPLG 1\Projek Akhir_Sakha' Dita Aprillia\Projek Akhir_Sakha' Dita Aprillia\obj\Debug\Projek Akhir_Sakha' Dita Aprillia.exe.config
