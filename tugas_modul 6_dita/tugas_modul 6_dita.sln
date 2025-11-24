@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36518.9 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tugas_modul 6_dita", "tugas_modul 6_dita\tugas_modul 6_dita.csproj", "{EB367026-B655-4585-9571-E0C84B464E8C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB367026-B655-4585-9571-E0C84B464E8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB367026-B655-4585-9571-E0C84B464E8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB367026-B655-4585-9571-E0C84B464E8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB367026-B655-4585-9571-E0C84B464E8C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6245C815-669C-4742-BFE6-AD60179D482A}
+	EndGlobalSection
+EndGlobal

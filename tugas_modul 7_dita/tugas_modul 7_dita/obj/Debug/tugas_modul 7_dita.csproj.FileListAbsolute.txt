@@ -1,0 +1,7 @@
+D:\Sakha' Dita Aprillia_X PPLG 1\tugas_modul 7_dita\tugas_modul 7_dita\bin\Debug\tugas_modul 7_dita.exe.config
+D:\Sakha' Dita Aprillia_X PPLG 1\tugas_modul 7_dita\tugas_modul 7_dita\bin\Debug\tugas_modul 7_dita.exe
+D:\Sakha' Dita Aprillia_X PPLG 1\tugas_modul 7_dita\tugas_modul 7_dita\bin\Debug\tugas_modul 7_dita.pdb
+D:\Sakha' Dita Aprillia_X PPLG 1\tugas_modul 7_dita\tugas_modul 7_dita\obj\Debug\tugas_modul 7_dita.csproj.AssemblyReference.cache
+D:\Sakha' Dita Aprillia_X PPLG 1\tugas_modul 7_dita\tugas_modul 7_dita\obj\Debug\tugas_modul 7_dita.csproj.CoreCompileInputs.cache
+D:\Sakha' Dita Aprillia_X PPLG 1\tugas_modul 7_dita\tugas_modul 7_dita\obj\Debug\tugas_modul 7_dita.exe
+D:\Sakha' Dita Aprillia_X PPLG 1\tugas_modul 7_dita\tugas_modul 7_dita\obj\Debug\tugas_modul 7_dita.pdb
