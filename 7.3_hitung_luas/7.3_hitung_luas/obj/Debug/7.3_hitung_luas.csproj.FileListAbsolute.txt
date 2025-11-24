@@ -1,7 +1,0 @@
-D:\Sakha' Dita Aprillia_X PPLG 1\7.3_hitung_luas\7.3_hitung_luas\bin\Debug\7.3_hitung_luas.exe.config
-D:\Sakha' Dita Aprillia_X PPLG 1\7.3_hitung_luas\7.3_hitung_luas\bin\Debug\7.3_hitung_luas.exe
-D:\Sakha' Dita Aprillia_X PPLG 1\7.3_hitung_luas\7.3_hitung_luas\bin\Debug\7.3_hitung_luas.pdb
-D:\Sakha' Dita Aprillia_X PPLG 1\7.3_hitung_luas\7.3_hitung_luas\obj\Debug\7.3_hitung_luas.csproj.AssemblyReference.cache
-D:\Sakha' Dita Aprillia_X PPLG 1\7.3_hitung_luas\7.3_hitung_luas\obj\Debug\7.3_hitung_luas.csproj.CoreCompileInputs.cache
-D:\Sakha' Dita Aprillia_X PPLG 1\7.3_hitung_luas\7.3_hitung_luas\obj\Debug\7.3_hitung_luas.exe
-D:\Sakha' Dita Aprillia_X PPLG 1\7.3_hitung_luas\7.3_hitung_luas\obj\Debug\7.3_hitung_luas.pdb
