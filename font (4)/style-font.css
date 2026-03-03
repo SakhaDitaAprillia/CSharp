@@ -1,0 +1,44 @@
+body {
+    background-color: #f4f4f4;
+    padding: 20px;
+}
+
+/* Paragraf 1 */
+.p1 {
+    font-size: 18px; /* satuan px */
+    font-weight: bold;
+    font-style: normal;
+    font-family: serif;
+}
+
+/* Paragraf 2 */
+.p2 {
+    font-size: 120%; /* satuan persen */
+    font-weight: lighter;
+    font-style: italic;
+    font-family: sans-serif;
+}
+
+/* Paragraf 3 */
+.p3 {
+    font-size: 1.5em; /* satuan em */
+    font-weight: 400;
+    font-style: italic;
+    font-family: monospace;
+}
+
+/* Paragraf 4 */
+.p4 {
+    font-size: 1.2rem; /* satuan rem */
+    font-weight: bolder;
+    font-style: normal;
+    font-family: cursive;
+}
+
+/* Paragraf 5 */
+.p5 {
+    font-size: large; /* keyword */
+    font-weight: 700;
+    font-style: oblique;
+    font-family: fantasy;
+}

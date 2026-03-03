@@ -1,0 +1,28 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+/* 1. Nama Warna */
+.nama-warna {
+    color: blue;
+}
+
+/* 2. RGB */
+.rgb {
+    color: rgb(255, 0, 0);
+}
+
+/* 3. RGBA */
+.rgba {
+    color: rgba(0, 128, 0, 0.7);
+}
+
+/* 4. HSL */
+.hsl {
+    color: hsl(300, 100%, 40%);
+}
+
+/* 5. HSLA */
+.hsla {
+    color: hsla(200, 100%, 50%, 0.5);
+}
